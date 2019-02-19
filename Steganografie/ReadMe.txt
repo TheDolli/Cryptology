@@ -1,1 +1,0 @@
-GUI se mi nepodaøilo dokonèit a v této podobì program naèítá obrázek který je manuálnì vepsán do kódu. 
